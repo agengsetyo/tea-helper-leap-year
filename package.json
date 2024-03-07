@@ -12,5 +12,10 @@
     "tea-bool": "^1.1.0",
     "tea-helper": "^1.2.2",
     "tea-helper-strings": "^1.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agengsetyo/tea-helper-leap-year.git"
+  },
+  "homepage": "https://github.com/agengsetyo/tea-helper-leap-year#readme"
 }
