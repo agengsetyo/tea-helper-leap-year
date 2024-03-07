@@ -1,7 +1,7 @@
 {
   "name": "tea-helper-leap-year",
   "version": "1.0.0",
-  "description": "This is function to determine the year is Leap year or not",
+  "description": "This is function to determine the year is Leap year",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
